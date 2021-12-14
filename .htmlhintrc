@@ -1,0 +1,13 @@
+{
+  "attr-lowercase": ["viewBox"],
+  "alt-require": true,
+  "doctype-html5": true,
+  "empty-tag-not-self-closed": true,
+  "head-script-disabled": true,
+  "id-unique": true,
+  "inline-style-disabled": true,
+  "src-not-empty": true,
+  "tag-pair": true,
+  "tagname-lowercase": true,
+  "space-tab-mixed-disabled": "space"
+}
